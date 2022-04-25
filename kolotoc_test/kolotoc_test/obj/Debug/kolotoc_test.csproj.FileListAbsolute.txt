@@ -1,0 +1,10 @@
+G:\PRG\kolotoc_test\kolotoc_test\bin\Debug\kolotoc_test.exe.config
+G:\PRG\kolotoc_test\kolotoc_test\bin\Debug\kolotoc_test.exe
+G:\PRG\kolotoc_test\kolotoc_test\bin\Debug\kolotoc_test.pdb
+G:\PRG\kolotoc_test\kolotoc_test\obj\Debug\kolotoc_test.csprojAssemblyReference.cache
+G:\PRG\kolotoc_test\kolotoc_test\obj\Debug\kolotoc_test.Form1.resources
+G:\PRG\kolotoc_test\kolotoc_test\obj\Debug\kolotoc_test.Properties.Resources.resources
+G:\PRG\kolotoc_test\kolotoc_test\obj\Debug\kolotoc_test.csproj.GenerateResource.cache
+G:\PRG\kolotoc_test\kolotoc_test\obj\Debug\kolotoc_test.csproj.CoreCompileInputs.cache
+G:\PRG\kolotoc_test\kolotoc_test\obj\Debug\kolotoc_test.exe
+G:\PRG\kolotoc_test\kolotoc_test\obj\Debug\kolotoc_test.pdb
